@@ -23,7 +23,7 @@ You need to do the following before creating the service:
 - Sign up for the preview of RemoteApp. You can do that at [http://azure.microsoft.com/en-us/services/remoteapp/](http://azure.microsoft.com/en-us/services/remoteapp/).
 - Gather information about the users and groups that you want to grant access to. This can be either Microsoft account information or Active Directory work account information for users or groups.
 - This procedure assumes you are either going to use the template image that is provided as part of your subscription or that you have already uploaded the template image you want to use. If you need to upload a different template image, you can do that from the Template Images page. Just click **upload a template image** and follow the steps in the wizard. 
-- Want to provide custom apps or LOB pgorams? Create a new [custom template image](http://azure.microsoft.com/en-us/documentation/articles/remoteapp-create-custom-image/) and use it in your cloud deployment.
+- Want to provide custom apps or LOB programs? Create a new [custom template image](http://azure.microsoft.com/en-us/documentation/articles/remoteapp-create-custom-image/) and use it in your cloud deployment.
 
 ## **Step 1: Create a RemoteApp service** ##
 
